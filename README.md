@@ -1,4 +1,4 @@
-# 💡 Mesa de Proyectos: Ciencia de Datos e Ingeniería de Inteligencia Artificial
+# 💡 Mesa de Proyectos: Ciencia de Datos e Ingeniería de IA
 
 Bienvenido a este espacio colaborativo donde se desarrollan **proyectos aplicados** de **Ciencia de Datos** e **Ingeniería de Inteligencia Artificial**. Aquí se integran conocimientos de análisis de datos, modelado predictivo, aprendizaje automático, procesamiento del lenguaje natural y despliegue de soluciones inteligentes, enfocados a resolver retos reales en distintas industrias.
 
