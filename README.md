@@ -16,6 +16,8 @@ Crear un portafolio sólido de proyectos que demuestren habilidades técnicas y 
 
 - Python, R, SQL
 - Jupyter, VSCode, Google Colab
-- Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
+- Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch,Kmeans
 
 ## 🧪 Proyectos Destacados
+-PCA Clusterizacion Paises Beneficio por situacion economica y social
+-
