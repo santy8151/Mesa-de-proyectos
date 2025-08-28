@@ -20,4 +20,4 @@ Crear un portafolio sólido de proyectos que demuestren habilidades técnicas y 
 
 ## 🧪 Proyectos Destacados
 -PCA Clusterizacion Paises Beneficio por situacion economica y social Kaggle ejercicio:https://www.kaggle.com/datasets/vipulgohel/clustering-pca-assignment
--
+-Happy Ranking
