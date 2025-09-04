@@ -15,9 +15,10 @@ Crear un portafolio sólido de proyectos que demuestren habilidades técnicas y 
 ## 🧠 Tecnologías y Herramientas
 
 - Python, R, SQL
-- Jupyter, VSCode, Google Colab,Kaggle
+- Jupyter, VSCode, Google Colab,Kaggle,anaconda
 - Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch,Kmeans
 
 ## 🧪 Proyectos Destacados
 -PCA Clusterizacion Paises Beneficio por situacion economica y social Kaggle ejercicio:https://www.kaggle.com/datasets/vipulgohel/clustering-pca-assignment
--Happy Ranking
+-Happy Ranking:Un proyecto de paises felices que podemos clsuterizar por medio de kmeans
+-Clustering Delitos:Un proyecto que clasifica tipos de delitos con variables importantes que se pueden ver por estadisticas como el genero que armas son las mas utilizadas
