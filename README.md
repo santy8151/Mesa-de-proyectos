@@ -20,5 +20,5 @@ Crear un portafolio sólido de proyectos que demuestren habilidades técnicas y 
 
 ## 🧪 Proyectos Destacados
 -PCA Clusterizacion Paises Beneficio por situacion economica y social Kaggle ejercicio:https://www.kaggle.com/datasets/vipulgohel/clustering-pca-assignment
--Happy Ranking:Un proyecto de paises felices que podemos clsuterizar por medio de kmeans
--Clustering Delitos:Un proyecto que clasifica tipos de delitos con variables importantes que se pueden ver por estadisticas como el genero que armas son las mas utilizadas
+-Happy Ranking:Un proyecto de datos sobre la felicidad de los habitantes de cada pais se sacan características que indiquen por que ese pais es feliz.
+-Clustering Delitos:Un proyecto de clistering tipos de delitos con variables importantes que se pueden ver por estadisticas cuales es la tendencia por ejemplo del genero y el arma mas usada
